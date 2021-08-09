@@ -1,0 +1,603 @@
+{
+    "beginner":[
+        {
+            "id":100000,
+            "type":"Beginner",
+            "name":"初行者推荐",
+            "hint":"新手祈愿",
+            "epitomizedPathEnabled":false,
+            "rank5Up":[
+            ],
+            "rank4Up":[
+            ],
+            "beginTime":"2020-09-14 08:00:00",
+            "endTime":"2099-12-31 23:59:59"
+        }
+    ],
+    "permanent":[
+        {
+            "id":100001,
+            "type":"Permanent",
+            "name":"奔行世间",
+            "hint":"常驻祈愿",
+            "epitomizedPathEnabled":false,
+            "rank5Up":[
+            ],
+            "rank4Up":[
+            ],
+            "beginTime":"2020-09-14 08:00:00",
+            "endTime":"2099-12-31 23:59:59"
+        }
+    ],
+    "event":[
+        {
+            "id":100,
+            "version":"1.0.0",
+            "name":"捕风的异乡人",
+            "beginTime":"2020-09-14 08:00:00",
+            "endTime":"2020-11-11 06:00:00",
+            "banners":[
+                {
+                    "id":100101,
+                    "type":"EventCharacter",
+                    "name":"杯装之诗",
+                    "hint":"温迪",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151001
+                    ],
+                    "rank4Up":[
+                        140002,140006,140013
+                    ],
+                    "beginTime":"2020-09-28 08:00:00",
+                    "endTime":"2020-10-18 17:59:59"
+                },
+                {
+                    "id":100201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"风鹰剑 阿莫斯之弓",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        215001,245002
+                    ],
+                    "rank4Up":[
+                        214010,224008,254008,244001,234007
+                    ],
+                    "beginTime":"2020-09-28 08:00:00",
+                    "endTime":"2020-10-18 17:59:59"
+                },
+                {
+                    "id":100102,
+                    "type":"EventCharacter",
+                    "name":"闪焰的驻足",
+                    "hint":"可莉",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151002
+                    ],
+                    "rank4Up":[
+                        140014,140010,140012
+                    ],
+                    "beginTime":"2020-10-20 18:00:00",
+                    "endTime":"2020-11-10 14:59:59"
+                },
+                {
+                    "id":100202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"四风原典 狼的末路",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        255001,225002
+                    ],
+                    "rank4Up":[
+                        214007,224010,254006,244009,234004
+                    ],
+                    "beginTime":"2020-10-20 18:00:00",
+                    "endTime":"2020-11-10 14:59:59"
+                }
+            ]
+        },
+        {
+            "id":101,
+            "version":"1.1.0",
+            "name":"迫近的客星",
+            "beginTime":"2020-11-11 08:00:00",
+            "endTime":"2020-12-23 06:00:00",
+            "banners":[
+                {
+                    "id":101101,
+                    "type":"EventCharacter",
+                    "name":"暂别冬都",
+                    "hint":"达达利亚",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151101
+                    ],
+                    "rank4Up":[
+                        141101,140003,140009
+                    ],
+                    "beginTime":"2020-11-11 08:00:00",
+                    "endTime":"2020-12-01 15:59:59"
+                },
+                {
+                    "id":101201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"天空之翼 尘世之锁",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        245001,255003
+                    ],
+                    "rank4Up":[
+                        214010,224005,254010,244008,234007
+                    ],
+                    "beginTime":"2020-11-11 08:00:00",
+                    "endTime":"2020-12-01 15:59:59"
+                },
+                {
+                    "id":101102,
+                    "type":"EventCharacter",
+                    "name":"陵薮市朝",
+                    "hint":"钟离",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151102
+                    ],
+                    "rank4Up":[
+                        141102,140011,140005
+                    ],
+                    "beginTime":"2020-12-01 18:00:00",
+                    "endTime":"2020-12-22 14:59:59"
+                },
+                {
+                    "id":101202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"贯虹之槊 无工之剑",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        235001,225003
+                    ],
+                    "rank4Up":[
+                        214004,224008,254002,244005,234004
+                    ],
+                    "beginTime":"2020-12-01 18:00:00",
+                    "endTime":"2020-12-22 14:59:59"
+                }
+            ]
+        },
+        {
+            "id":102,
+            "version":"1.2.0",
+            "name":"白垩与黑龙",
+            "beginTime":"2020-12-23 08:00:00",
+            "endTime":"2021-02-03 06:00:00",
+            "banners":[
+                {
+                    "id":102101,
+                    "type":"EventCharacter",
+                    "name":"深秘之息",
+                    "hint":"阿贝多",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151201
+                    ],
+                    "rank4Up":[
+                        140006,140012,140004
+                    ],
+                    "beginTime":"2020-12-23 08:00:00",
+                    "endTime":"2021-01-12 15:59:59"
+                },
+                {
+                    "id":102201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"斫峰之刃 天空之卷",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        215003,255002
+                    ],
+                    "rank4Up":[
+                        214002,224002,234007,254006,244001
+                    ],
+                    "beginTime":"2020-12-23 08:00:00",
+                    "endTime":"2021-01-12 15:59:59"
+                },
+                {
+                    "id":102102,
+                    "type":"EventCharacter",
+                    "name":"浮生孰来",
+                    "hint":"甘雨",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151202
+                    ],
+                    "rank4Up":[
+                        140013,140014,140010
+                    ],
+                    "beginTime":"2021-01-12 18:00:00",
+                    "endTime":"2021-02-02 14:59:59"
+                },
+                {
+                    "id":102202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"阿莫斯之弓 无工之剑",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        245002,225001
+                    ],
+                    "rank4Up":[
+                        214007,224008,234004,254010,244005
+                    ],
+                    "beginTime":"2021-01-12 18:00:00",
+                    "endTime":"2021-02-02 14:59:59"
+                }
+            ]
+        },
+        {
+            "id":103,
+            "version":"1.3.0",
+            "name":"明霄升海平",
+            "beginTime":"2021-02-03 08:00:00",
+            "endTime":"2021-03-17 06:00:00",
+            "banners":[
+                {
+                    "id":103101,
+                    "type":"EventCharacter",
+                    "name":"烟火之邀",
+                    "hint":"魈",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151301
+                    ],
+                    "rank4Up":[
+                        141101,140003,141102
+                    ],
+                    "beginTime":"2021-02-03 08:00:00",
+                    "endTime":"2021-02-17 15:59:59"
+                },
+                {
+                    "id":103201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"磐岩结绿 和璞鸢",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        215004,235002
+                    ],
+                    "rank4Up":[
+                        214010,224010,244008,254010,234007
+                    ],
+                    "beginTime":"2021-02-03 08:00:00",
+                    "endTime":"2021-02-23 15:59:59"
+                },
+                {
+                    "id":103102,
+                    "type":"EventCharacter",
+                    "name":"鱼龙灯昼",
+                    "hint":"刻晴",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        150005
+                    ],
+                    "rank4Up":[
+                        140009,140004,140002
+                    ],
+                    "beginTime":"2021-02-17 18:00:00",
+                    "endTime":"2021-03-02 15:59:59"
+                },
+                {
+                    "id":103202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"护摩之杖 狼的末路",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        235004,225002
+                    ],
+                    "rank4Up":[
+                        224003,234005,214004,244009,254008
+                    ],
+                    "beginTime":"2021-02-23 18:00:00",
+                    "endTime":"2021-03-16 14:59:59"
+                },
+                {
+                    "id":103103,
+                    "type":"EventCharacter",
+                    "name":"赤团开时",
+                    "hint":"胡桃",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151302
+                    ],
+                    "rank4Up":[
+                        140014,140013,140005
+                    ],
+                    "beginTime":"2021-03-02 18:00:00",
+                    "endTime":"2021-03-16 14:59:59"
+                }
+            ]
+        },
+        {
+            "id":104,
+            "version":"1.4.0",
+            "name":"风花的邀约",
+            "beginTime":"2021-03-17 08:00:00",
+            "endTime":"2021-04-28 06:00:00",
+            "banners":[
+                {
+                    "id":104101,
+                    "type":"EventCharacter",
+                    "name":"杯装之诗",
+                    "hint":"温迪(复刻)",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151001
+                    ],
+                    "rank4Up":[
+                        140012,140011,140010
+                    ],
+                    "beginTime":"2021-03-17 08:00:00",
+                    "endTime":"2021-04-06 15:59:59"
+                },
+                {
+                    "id":104201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"终末嗟叹之诗 天空之刃",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        245003,215002
+                    ],
+                    "rank4Up":[
+                        214008,254009,224002,244005,234004
+                    ],
+                    "beginTime":"2021-03-17 08:00:00",
+                    "endTime":"2021-04-06 15:59:59"
+                },
+                {
+                    "id":104102,
+                    "type":"EventCharacter",
+                    "name":"暂别冬都",
+                    "hint":"达达利亚(复刻)",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151101
+                    ],
+                    "rank4Up":[
+                        141401,140002,140006
+                    ],
+                    "beginTime":"2021-04-06 18:00:00",
+                    "endTime":"2021-04-27 14:59:59"
+                },
+                {
+                    "id":104202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"天空之翼 四风原典",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        245001,255001
+                    ],
+                    "rank4Up":[
+                        244002,214002,224010,254002,234007
+                    ],
+                    "beginTime":"2021-04-06 18:00:00",
+                    "endTime":"2021-04-27 14:59:59"
+                }
+            ]
+        },
+        {
+            "id":105,
+            "version":"1.5.0",
+            "name":"玉扉绕尘歌",
+            "beginTime":"2021-04-28 08:00:00",
+            "endTime":"2021-06-09 06:00:00",
+            "banners":[
+                {
+                    "id":105101,
+                    "type":"EventCharacter",
+                    "name":"陵薮市朝",
+                    "hint":"钟离(复刻)",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151102
+                    ],
+                    "rank4Up":[
+                        141501,140010,141101
+                    ],
+                    "beginTime":"2021-04-28 08:00:00",
+                    "endTime":"2021-05-18 17:59:59"
+                },
+                {
+                    "id":105201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"斫峰之刃 尘世之锁",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        215003,255003
+                    ],
+                    "rank4Up":[
+                        224003,234005,214010,254010,244009
+                    ],
+                    "beginTime":"2021-04-28 08:00:00",
+                    "endTime":"2021-05-18 17:59:59"
+                },
+                {
+                    "id":105102,
+                    "type":"EventCharacter",
+                    "name":"浪涌之瞬",
+                    "hint":"优菈",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151501
+                    ],
+                    "rank4Up":[
+                        141102,140014,140003
+                    ],
+                    "beginTime":"2021-05-18 18:00:00",
+                    "endTime":"2021-06-08 14:59:59"
+                },
+                {
+                    "id":105202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"松籁响起之时 风鹰剑",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        225004,215001
+                    ],
+                    "rank4Up":[
+                        214007,224005,234004,254006,244008
+                    ],
+                    "beginTime":"2021-05-18 18:00:00",
+                    "endTime":"2021-06-08 14:59:59"
+                }
+            ]
+        },
+        {
+            "id":106,
+            "version":"1.6.0",
+            "name":"盛夏！海岛？大冒险！",
+            "beginTime":"2021-06-09 08:00:00",
+            "endTime":"2021-07-21 06:00:00",
+            "banners":[
+                {
+                    "id":106101,
+                    "type":"EventCharacter",
+                    "name":"闪焰的驻足",
+                    "hint":"可莉(复刻)",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151002
+                    ],
+                    "rank4Up":[
+                        140002,140012,140006
+                    ],
+                    "beginTime":"2021-06-09 08:00:00",
+                    "endTime":"2021-06-29 17:59:59"
+                },
+                {
+                    "id":106201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"天空之傲 四风原典",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        225001,255001
+                    ],
+                    "rank4Up":[
+                        244012,214004,224008,234007,254008
+                    ],
+                    "beginTime":"2021-06-09 08:00:00",
+                    "endTime":"2021-06-29 17:59:59"
+                },
+                {
+                    "id":106102,
+                    "type":"EventCharacter",
+                    "name":"叶落风随",
+                    "hint":"枫原万叶",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151601
+                    ],
+                    "rank4Up":[
+                        141401,140004,140011
+                    ],
+                    "beginTime":"2021-06-29 18:00:00",
+                    "endTime":"2021-07-20 14:59:59"
+                },
+                {
+                    "id":106202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"苍古自由之誓 天空之卷",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        215005,255002
+                    ],
+                    "rank4Up":[
+                        214008,254009,244002,224002,234004
+                    ],
+                    "beginTime":"2021-06-29 18:00:00",
+                    "endTime":"2021-07-20 14:59:59"
+                }
+            ]
+        },
+
+        {
+            "id":200,
+            "version":"2.0.0",
+            "name":"不动鸣神 恒常乐土",
+            "beginTime":"2021-07-21 08:00:00",
+            "endTime":"2021-09-01 06:00:00",
+            "banners":[
+                {
+                    "id":200101,
+                    "type":"EventCharacter",
+                    "name":"白鹭之庭",
+                    "hint":"神里绫华",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152001
+                    ],
+                    "rank4Up":[
+                        140009,140005,141501
+                    ],
+                    "beginTime":"2021-07-21 08:00:00",
+                    "endTime":"2021-08-10 17:59:59"
+                },
+                {
+                    "id":200201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"雾切之回光 天空之脊",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        215006,235003
+                    ],
+                    "rank4Up":[
+                        214002,224010,234007,254002,244001
+                    ],
+                    "beginTime":"2021-07-21 08:00:00",
+                    "endTime":"2021-08-10 17:59:59"
+                },
+                {
+                    "id":200102,
+                    "type":"EventCharacter",
+                    "name":"焰色天河",
+                    "hint":"宵宫",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152002
+                    ],
+                    "rank4Up":[
+                        142001,141101,141102
+                    ],
+                    "beginTime":"2021-08-10 18:00:00",
+                    "endTime":"2021-08-31 14:59:59"
+                },
+                {
+                    "id":200202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"飞雷之弦振 天空之刃",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        245004,215002
+                    ],
+                    "rank4Up":[
+                        214007,224005,234004,254006,244005
+                    ],
+                    "beginTime":"2021-08-10 18:00:00",
+                    "endTime":"2021-08-31 14:59:59"
+                }
+            ]
+        }
+    ]
+
+}

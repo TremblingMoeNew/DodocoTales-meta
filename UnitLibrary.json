@@ -1,0 +1,1285 @@
+[
+    {
+        "id":140001,
+        "type":"Character",
+        "rank":4,
+        "code":"Amber",
+        "name":"安柏",
+        "portrait":""
+    },
+    {
+        "id":140002,
+        "type":"Character",
+        "rank":4,
+        "code":"Barbara",
+        "name":"芭芭拉",
+        "portrait":""
+    },
+    {
+        "id":140003,
+        "type":"Character",
+        "rank":4,
+        "code":"Beidou",
+        "name":"北斗",
+        "portrait":""
+    },
+    {
+        "id":140004,
+        "type":"Character",
+        "rank":4,
+        "code":"Bennett",
+        "name":"班尼特",
+        "portrait":""
+    },
+    {
+        "id":140005,
+        "type":"Character",
+        "rank":4,
+        "code":"Chongyun",
+        "name":"重云",
+        "portrait":""
+    },
+    {
+        "id":140006,
+        "type":"Character",
+        "rank":4,
+        "code":"Fischl",
+        "name":"菲谢尔",
+        "portrait":""
+    },
+    {
+        "id":140007,
+        "type":"Character",
+        "rank":4,
+        "code":"Kaeya",
+        "name":"凯亚",
+        "portrait":""
+    },
+    {
+        "id":140008,
+        "type":"Character",
+        "rank":4,
+        "code":"Lisa",
+        "name":"丽莎",
+        "portrait":""
+    },
+    {
+        "id":140009,
+        "type":"Character",
+        "rank":4,
+        "code":"Ningguang",
+        "name":"凝光",
+        "portrait":""
+    },
+    {
+        "id":140010,
+        "type":"Character",
+        "rank":4,
+        "code":"Noelle",
+        "name":"诺艾尔",
+        "portrait":""
+    },
+    {
+        "id":140011,
+        "type":"Character",
+        "rank":4,
+        "code":"Razor",
+        "name":"雷泽",
+        "portrait":""
+    },
+
+    {
+        "id":140012,
+        "type":"Character",
+        "rank":4,
+        "code":"Sucrose",
+        "name":"砂糖",
+        "portrait":""
+    },
+    {
+        "id":140013,
+        "type":"Character",
+        "rank":4,
+        "code":"Xiangling",
+        "name":"香菱",
+        "portrait":""
+    },
+    {
+        "id":140014,
+        "type":"Character",
+        "rank":4,
+        "code":"Xingqiu",
+        "name":"行秋",
+        "portrait":""
+    },
+
+    {
+        "id":150001,
+        "type":"Character",
+        "rank":5,
+        "code":"Diluc",
+        "name":"迪卢克",
+        "portrait":""
+    },
+    {
+        "id":150002,
+        "type":"Character",
+        "rank":5,
+        "code":"Jean",
+        "name":"琴",
+        "portrait":""
+    },
+    {
+        "id":150003,
+        "type":"Character",
+        "rank":5,
+        "code":"Mona",
+        "name":"莫娜",
+        "portrait":""
+    },
+    {
+        "id":150004,
+        "type":"Character",
+        "rank":5,
+        "code":"Qiqi",
+        "name":"七七",
+        "portrait":""
+    },
+    {
+        "id":150005,
+        "type":"Character",
+        "rank":5,
+        "code":"Keqing",
+        "name":"刻晴",
+        "portrait":""
+    },
+
+
+
+    {
+        "id":151001,
+        "type":"Character",
+        "rank":5,
+        "code":"Venti",
+        "name":"温迪",
+        "portrait":""
+    },
+    {
+        "id":151002,
+        "type":"Character",
+        "rank":5,
+        "code":"Klee",
+        "name":"可莉",
+        "portrait":""
+    },
+
+
+
+    {
+        "id":141101,
+        "type":"Character",
+        "rank":4,
+        "code":"Diona",
+        "name":"迪奥娜",
+        "portrait":""
+    },
+    {
+        "id":141102,
+        "type":"Character",
+        "rank":4,
+        "code":"Xinyan",
+        "name":"辛焱",
+        "portrait":""
+    },
+
+
+
+    {
+        "id":151101,
+        "type":"Character",
+        "rank":5,
+        "code":"Tartaglia",
+        "name":"达达利亚",
+        "portrait":""
+    },
+    {
+        "id":151102,
+        "type":"Character",
+        "rank":5,
+        "code":"Zhongli",
+        "name":"钟离",
+        "portrait":""
+    },
+
+
+
+
+    {
+        "id":151201,
+        "type":"Character",
+        "rank":5,
+        "code":"Albedo",
+        "name":"阿贝多",
+        "portrait":""
+    },
+    {
+        "id":151202,
+        "type":"Character",
+        "rank":5,
+        "code":"Ganyu",
+        "name":"甘雨",
+        "portrait":""
+    },
+
+
+
+
+    {
+        "id":151301,
+        "type":"Character",
+        "rank":5,
+        "code":"Xiao",
+        "name":"魈",
+        "portrait":""
+    },
+    {
+        "id":151302,
+        "type":"Character",
+        "rank":5,
+        "code":"Hu Tao",
+        "name":"胡桃",
+        "portrait":""
+    },
+
+
+
+
+    {
+        "id":141401,
+        "type":"Character",
+        "rank":4,
+        "code":"Rosaria",
+        "name":"罗莎莉亚",
+        "portrait":""
+    },
+
+
+
+
+    {
+        "id":141501,
+        "type":"Character",
+        "rank":4,
+        "code":"Yanfei",
+        "name":"烟绯",
+        "portrait":""
+    },
+    {
+        "id":151501,
+        "type":"Character",
+        "rank":5,
+        "code":"Eula",
+        "name":"优菈",
+        "portrait":""
+    },
+
+
+    {
+        "id":151601,
+        "type":"Character",
+        "rank":5,
+        "code":"Kaedehara Kazuha",
+        "name":"枫原万叶",
+        "portrait":""
+    },
+
+    {
+        "id":142001,
+        "type":"Character",
+        "rank":4,
+        "code":"Sayu",
+        "name":"早柚",
+        "portrait":""
+    },
+    {
+        "id":152001,
+        "type":"Character",
+        "rank":5,
+        "code":"Kamisato Ayaka",
+        "name":"神里绫华",
+        "portrait":""
+    },
+    {
+        "id":152002,
+        "type":"Character",
+        "rank":5,
+        "code":"Yoimiya",
+        "name":"宵宫",
+        "portrait":""
+    },
+
+    {
+        "id":211001,
+        "type":"Weapon",
+        "rank":1,
+        "code":"Dull Blade",
+        "name":"无锋剑",
+        "portrait":""
+    },
+    {
+        "id":212001,
+        "type":"Weapon",
+        "rank":2,
+        "code":"Silver Sword",
+        "name":"银剑",
+        "portrait":""
+    },
+    {
+        "id":213001,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Cool Steel",
+        "name":"冷刃",
+        "portrait":""
+    },
+    {
+        "id":213002,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Dark Iron Sword",
+        "name":"暗铁剑",
+        "portrait":""
+    },
+    {
+        "id":213003,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Fillet Blade",
+        "name":"吃虎鱼刀",
+        "portrait":""
+    },
+    {
+        "id":213004,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Harbinger of Dawn",
+        "name":"黎明神剑",
+        "portrait":""
+    },
+    {
+        "id":213005,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Skyrider Sword",
+        "name":"飞天御剑",
+        "portrait":""
+    },
+    {
+        "id":213006,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Traveler's Handy Sword",
+        "name":"旅行剑",
+        "portrait":""
+    },
+    {
+        "id":214001,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Blackcliff Longsword",
+        "name":"黑岩长剑",
+        "portrait":""
+    },
+    {
+        "id":214002,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Favonius Sword",
+        "name":"西风剑",
+        "portrait":""
+    },
+    {
+        "id":214003,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Iron Sting",
+        "name":"铁蜂刺",
+        "portrait":""
+    },
+    {
+        "id":214004,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Lion's Roar",
+        "name":"匣里龙吟",
+        "portrait":""
+    },
+    {
+        "id":214005,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Prototype Rancour",
+        "name":"试作斩岩",
+        "portrait":""
+    },
+    {
+        "id":214006,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Royal Longsword",
+        "name":"宗室长剑",
+        "portrait":""
+    },
+    {
+        "id":214007,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Sacrificial Sword",
+        "name":"祭礼剑",
+        "portrait":""
+    },
+    {
+        "id":214008,
+        "type":"Weapon",
+        "rank":4,
+        "code":"The Alley Flash",
+        "name":"暗巷闪光",
+        "portrait":""
+    },
+    {
+        "id":214009,
+        "type":"Weapon",
+        "rank":4,
+        "code":"The Black Sword",
+        "name":"黑剑",
+        "portrait":""
+    },
+    {
+        "id":214010,
+        "type":"Weapon",
+        "rank":4,
+        "code":"The Flute",
+        "name":"笛剑",
+        "portrait":""
+    },
+    {
+        "id":214011,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Sword of Descension",
+        "name":"降临之剑",
+        "portrait":""
+    },
+    {
+        "id":214012,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Festering Desire",
+        "name":"腐殖之剑",
+        "portrait":""
+    },
+    {
+        "id":214013,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Amenoma Kageuta Blade",
+        "name":"天目影打刀",
+        "portrait":""
+    },
+    {
+        "id":215001,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Aquila Favonia",
+        "name":"风鹰剑",
+        "portrait":""
+    },
+    {
+        "id":215002,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Skyward Blade",
+        "name":"天空之刃",
+        "portrait":""
+    },
+    {
+        "id":215003,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Summit Shaper",
+        "name":"斫峰之刃",
+        "portrait":""
+    },
+    {
+        "id":215004,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Primordial Jade Cutter",
+        "name":"磐岩结绿",
+        "portrait":""
+    },
+    {
+        "id":215005,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Freedom-Sworn",
+        "name":"苍古自由之誓",
+        "portrait":""
+    },
+    {
+        "id":215006,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Mistsplitter's Reflection",
+        "name":"雾切之回光",
+        "portrait":""
+    },
+
+
+
+    {
+        "id":221001,
+        "type":"Weapon",
+        "rank":1,
+        "code":"Waster Greatsword",
+        "name":"训练大剑",
+        "portrait":""
+    },
+    {
+        "id":222001,
+        "type":"Weapon",
+        "rank":2,
+        "code":"Old Merc's Pal",
+        "name":"佣兵重剑",
+        "portrait":""
+    },
+    {
+        "id":223001,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Bloodtainted Greatsword",
+        "name":"沐浴龙血的剑",
+        "portrait":""
+    },
+    {
+        "id":223002,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Debate Club",
+        "name":"以理服人",
+        "portrait":""
+    },
+    {
+        "id":223003,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Ferrous Shadow",
+        "name":"铁影阔剑",
+        "portrait":""
+    },
+    {
+        "id":223004,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Skyrider Greatsword",
+        "name":"飞天大御剑",
+        "portrait":""
+    },
+    {
+        "id":223005,
+        "type":"Weapon",
+        "rank":3,
+        "code":"White Iron Greatsword",
+        "name":"白铁大剑",
+        "portrait":""
+    },
+    {
+        "id":223006,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Quartz",
+        "name":"石英大剑",
+        "portrait":""
+    },
+    {
+        "id":224001,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Blackcliff Slasher",
+        "name":"黑岩斩刀",
+        "portrait":""
+    },
+    {
+        "id":224002,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Favonius Greatsword",
+        "name":"西风大剑",
+        "portrait":""
+    },
+    {
+        "id":224003,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Lithic Blade",
+        "name":"千岩古剑",
+        "portrait":""
+    },
+    {
+        "id":224004,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Prototype Archaic",
+        "name":"试作古华",
+        "portrait":""
+    },
+    {
+        "id":224005,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Rainslasher",
+        "name":"雨裁",
+        "portrait":""
+    },
+    {
+        "id":224006,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Royal Greatsword",
+        "name":"宗室大剑",
+        "portrait":""
+    },
+    {
+        "id":224007,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Serpent Spine",
+        "name":"螭骨剑",
+        "portrait":""
+    },
+    {
+        "id":224008,
+        "type":"Weapon",
+        "rank":4,
+        "code":"The Bell",
+        "name":"钟剑",
+        "portrait":""
+    },
+    {
+        "id":224009,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Whiteblind",
+        "name":"白影剑",
+        "portrait":""
+    },
+    {
+        "id":224010,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Sacrificial Greatsword",
+        "name":"祭礼大剑",
+        "portrait":""
+    },
+    {
+        "id":224011,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Snow-Tombed Starsilver",
+        "name":"雪葬的星银",
+        "portrait":""
+    },
+    {
+        "id":224012,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Katsuragi's Slasher",
+        "name":"桂木斩长正",
+        "portrait":""
+    },
+    {
+        "id":225001,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Skyward Pride",
+        "name":"天空之傲",
+        "portrait":""
+    },
+    {
+        "id":225002,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Wolf's Gravestone",
+        "name":"狼的末路",
+        "portrait":""
+    },
+    {
+        "id":225003,
+        "type":"Weapon",
+        "rank":5,
+        "code":"The Unforged",
+        "name":"无工之剑",
+        "portrait":""
+    },
+    {
+        "id":225004,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Song of Broken Pines",
+        "name":"松籁响起之时",
+        "portrait":""
+    },
+
+
+
+    {
+        "id":231001,
+        "type":"Weapon",
+        "rank":1,
+        "code":"Beginner's Protector",
+        "name":"新手长枪",
+        "portrait":""
+    },
+    {
+        "id":232001,
+        "type":"Weapon",
+        "rank":2,
+        "code":"Iron Point",
+        "name":"铁尖枪",
+        "portrait":""
+    },
+    {
+        "id":233001,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Black Tassel",
+        "name":"黑缨枪",
+        "portrait":""
+    },
+    {
+        "id":233002,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Halberd",
+        "name":"钺矛",
+        "portrait":""
+    },
+    {
+        "id":233003,
+        "type":"Weapon",
+        "rank":3,
+        "code":"White Tassel",
+        "name":"白缨枪",
+        "portrait":""
+    },
+    {
+        "id":234001,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Blackcliff Pole",
+        "name":"黑岩刺枪",
+        "portrait":""
+    },
+    {
+        "id":234002,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Crescent Pike",
+        "name":"流月针",
+        "portrait":""
+    },
+    {
+        "id":234003,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Deathmatch",
+        "name":"决斗之枪",
+        "portrait":""
+    },
+    {
+        "id":234004,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Dragon's Bane",
+        "name":"匣里灭辰",
+        "portrait":""
+    },
+    {
+        "id":234005,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Lithic Spear",
+        "name":"千岩长枪",
+        "portrait":""
+    },
+    {
+        "id":234006,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Prototype Starglitter",
+        "name":"试作星镰",
+        "portrait":""
+    },
+    {
+        "id":234007,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Favonius Lance",
+        "name":"西风长枪",
+        "portrait":""
+    },
+    {
+        "id":234008,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Royal Spear",
+        "name":"宗室猎枪",
+        "portrait":""
+    },
+    {
+        "id":234009,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Dragonspine Spear",
+        "name":"龙脊长枪",
+        "portrait":""
+    },
+    {
+        "id":234010,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Kitain Cross Spear",
+        "name":"喜多院十文字",
+        "portrait":""
+    },
+    {
+        "id":235001,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Vortex Vanquisher",
+        "name":"贯虹之槊",
+        "portrait":""
+    },
+    {
+        "id":235002,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Primordial Jade Winged-Spear",
+        "name":"和璞鸢",
+        "portrait":""
+    },
+    {
+        "id":235003,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Skyward Spine",
+        "name":"天空之脊",
+        "portrait":""
+    },
+    {
+        "id":235004,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Staff of Homa",
+        "name":"护摩之杖",
+        "portrait":""
+    },
+
+
+
+    {
+        "id":241001,
+        "type":"Weapon",
+        "rank":1,
+        "code":"Hunter's Bow",
+        "name":"猎弓",
+        "portrait":""
+    },
+    {
+        "id":242001,
+        "type":"Weapon",
+        "rank":2,
+        "code":"Seasoned Hunter's Bow",
+        "name":"历练的猎弓",
+        "portrait":""
+    },
+    {
+        "id":243001,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Messenger",
+        "name":"信使",
+        "portrait":""
+    },
+    {
+        "id":243002,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Raven Bow",
+        "name":"鸦羽弓",
+        "portrait":""
+    },
+    {
+        "id":243003,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Recurve Bow",
+        "name":"反曲弓",
+        "portrait":""
+    },
+    {
+        "id":243004,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Sharpshooter's Oath",
+        "name":"神射手之誓",
+        "portrait":""
+    },
+    {
+        "id":243005,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Slingshot",
+        "name":"弹弓",
+        "portrait":""
+    },
+    {
+        "id":243006,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Ebony Bow",
+        "name":"黑檀弓",
+        "portrait":""
+    },
+    {
+        "id":244001,
+        "type":"Weapon",
+        "rank":4,
+        "code":"The Stringless",
+        "name":"绝弦",
+        "portrait":""
+    },
+    {
+        "id":244002,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Alley Hunter",
+        "name":"暗巷猎手",
+        "portrait":""
+    },
+    {
+        "id":244003,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Blackcliff Warbow",
+        "name":"黑岩战弓",
+        "portrait":""
+    },
+    {
+        "id":244004,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Compound Bow",
+        "name":"钢轮弓",
+        "portrait":""
+    },
+    {
+        "id":244005,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Favonius Warbow",
+        "name":"西风猎弓",
+        "portrait":""
+    },
+    {
+        "id":244006,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Prototype Crescent",
+        "name":"试作澹月",
+        "portrait":""
+    },
+    {
+        "id":244007,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Royal Bow",
+        "name":"宗室长弓",
+        "portrait":""
+    },
+    {
+        "id":244008,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Rust",
+        "name":"弓藏",
+        "portrait":""
+    },
+    {
+        "id":244009,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Sacrificial Bow",
+        "name":"祭礼弓",
+        "portrait":""
+    },
+    {
+        "id":244010,
+        "type":"Weapon",
+        "rank":4,
+        "code":"The Viridescent Hunt",
+        "name":"苍翠猎弓",
+        "portrait":""
+    },
+    {
+        "id":244011,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Windblume Ode",
+        "name":"风花之颂",
+        "portrait":""
+    },
+    {
+        "id":244012,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Mitternachts Waltz",
+        "name":"幽夜华尔兹",
+        "portrait":""
+    },
+    {
+        "id":244013,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Demon-Slayer Bow",
+        "name":"破魔之弓",
+        "portrait":""
+    },
+    {
+        "id":245001,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Skyward Harp",
+        "name":"天空之翼",
+        "portrait":""
+    },
+    {
+        "id":245002,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Amos' Bow",
+        "name":"阿莫斯之弓",
+        "portrait":""
+    },
+    {
+        "id":245003,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Elegy for the End",
+        "name":"终末嗟叹之诗",
+        "portrait":""
+    },
+    {
+        "id":245004,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Thundering Pulse",
+        "name":"飞雷之弦振",
+        "portrait":""
+    },
+
+
+    {
+        "id":251001,
+        "type":"Weapon",
+        "rank":1,
+        "code":"Apprentice's Notes",
+        "name":"学徒笔记",
+        "portrait":""
+    },
+    {
+        "id":252001,
+        "type":"Weapon",
+        "rank":2,
+        "code":"Pocket Grimoire",
+        "name":"口袋魔导书",
+        "portrait":""
+    },
+    {
+        "id":253001,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Emerald Orb",
+        "name":"翡玉法球",
+        "portrait":""
+    },
+    {
+        "id":253002,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Magic Guide",
+        "name":"魔导绪论",
+        "portrait":""
+    },
+    {
+        "id":253003,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Otherworldly Story",
+        "name":"异世界行记",
+        "portrait":""
+    },
+    {
+        "id":253004,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Thrilling Tales of Dragon Slayers",
+        "name":"讨龙英杰谭",
+        "portrait":""
+    },
+    {
+        "id":253005,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Twin Nephrite",
+        "name":"甲级宝珏",
+        "portrait":""
+    },
+    {
+        "id":253006,
+        "type":"Weapon",
+        "rank":3,
+        "code":"Amber Bead",
+        "name":"琥珀玥",
+        "portrait":""
+    },
+    {
+        "id":254001,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Blackcliff Agate",
+        "name":"黑岩绯玉",
+        "portrait":""
+    },
+    {
+        "id":254002,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Favonius Codex",
+        "name":"西风秘典",
+        "portrait":""
+    },
+    {
+        "id":254003,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Mappa Mare",
+        "name":"万国诸海图谱",
+        "portrait":""
+    },
+    {
+        "id":254004,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Prototype Amber",
+        "name":"试作金珀",
+        "portrait":""
+    },
+    {
+        "id":254005,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Royal Grimoire",
+        "name":"宗室秘法录",
+        "portrait":""
+    },
+    {
+        "id":254006,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Sacrificial Fragments",
+        "name":"祭礼残章",
+        "portrait":""
+    },
+    {
+        "id":254007,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Solar Pearl",
+        "name":"匣里日月",
+        "portrait":""
+    },
+    {
+        "id":254008,
+        "type":"Weapon",
+        "rank":4,
+        "code":"The Widsith",
+        "name":"流浪乐章",
+        "portrait":""
+    },
+    {
+        "id":254009,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Wine and Song",
+        "name":"暗巷的酒与诗",
+        "portrait":""
+    },
+    {
+        "id":254010,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Eye of Perception",
+        "name":"昭心",
+        "portrait":""
+    },
+    {
+        "id":254011,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Frostbearer",
+        "name":"忍冬之果",
+        "portrait":""
+    },
+    {
+        "id":254012,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Dodoco Tales",
+        "name":"嘟嘟可故事集",
+        "portrait":""
+    },
+    {
+        "id":254013,
+        "type":"Weapon",
+        "rank":4,
+        "code":"White Dragon Ring",
+        "name":"白辰之环",
+        "portrait":""
+    },
+    {
+        "id":255001,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Lost Prayer to the Sacred Winds",
+        "name":"四风原典",
+        "portrait":""
+    },
+    {
+        "id":255002,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Skyward Atlas",
+        "name":"天空之卷",
+        "portrait":""
+    },
+    {
+        "id":255003,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Memory of Dust",
+        "name":"尘世之锁",
+        "portrait":""
+    }
+
+]
