@@ -317,7 +317,39 @@
         "name":"宵宫",
         "portrait":""
     },
-
+    {
+        "id":152101,
+        "type":"Character",
+        "rank":5,
+        "code":"Raiden Shogun",
+        "code_alias":"Raiden Ei",
+        "name":"雷电将军",
+        "portrait":""
+    },
+    {
+        "id":152102,
+        "type":"Character",
+        "rank":5,
+        "code":"Sangonomiya Kokomi",
+        "name":"珊瑚宫心海",
+        "portrait":""
+    },
+    {
+        "id":152103,
+        "type":"Character",
+        "rank":5,
+        "code":"Aloy",
+        "name":"埃洛伊",
+        "portrait":""
+    },
+    {
+        "id":142101,
+        "type":"Character",
+        "rank":4,
+        "code":"Kujou Sara",
+        "name":"九条裟罗",
+        "portrait":""
+    },
     {
         "id":211001,
         "type":"Weapon",
@@ -697,6 +729,16 @@
         "name":"桂木斩长正",
         "portrait":""
     },
+
+    {
+        "id":224013,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Luxurious Sea-Lord",
+        "name":"衔珠海皇",
+        "portrait":""
+    },
+
     {
         "id":225001,
         "type":"Weapon",
@@ -853,6 +895,16 @@
         "portrait":""
     },
     {
+        "id":234011,
+        "type":"Weapon",
+        "rank":4,
+        "code":"\"The Catch\"",
+        "name":"「渔获」",
+        "portrait":""
+    },
+
+
+    {
         "id":235001,
         "type":"Weapon",
         "rank":5,
@@ -884,7 +936,14 @@
         "name":"护摩之杖",
         "portrait":""
     },
-
+    {
+        "id":235005,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Engulfing Lightning",
+        "name":"薙草之稻光",
+        "portrait":""
+    },
 
 
     {
@@ -1279,6 +1338,14 @@
         "rank":5,
         "code":"Memory of Dust",
         "name":"尘世之锁",
+        "portrait":""
+    },
+    {
+        "id":255004,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Everlasting Moonglow",
+        "name":"不灭月华",
         "portrait":""
     }
 
