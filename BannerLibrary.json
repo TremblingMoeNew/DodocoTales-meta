@@ -613,6 +613,47 @@
                     "endTime":"2021-08-31 14:59:59"
                 }
             ]
+        },
+        {
+            "id":201,
+            "version":"2.1.0",
+            "name":"韶光抚月 天下人间",
+            "beginTime":"2021-09-01 08:00:00",
+            "endTime":"2021-10-13 06:00:00",
+            "banners":[
+                {
+                    "id":201101,
+                    "type":"EventCharacter",
+                    "name":"影寂天下人",
+                    "hint":"雷电将军",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152101
+                    ],
+                    "rank4Up":[
+                        142101,140013,140012
+                    ],
+                    "beginTime":"2021-09-01 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2021-09-21 17:59:59"
+                },
+                {
+                    "id":200201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"薙草之稻光 天空之脊",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        235005,225003
+                    ],
+                    "rank4Up":[
+                        214004,224008,234007,254008,244009
+                    ],
+                    "beginTime":"2021-09-01 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2021-09-21 17:59:59"
+                }
+            ]
         }
     ]
 
