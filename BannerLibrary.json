@@ -652,6 +652,36 @@
                     "beginTime":"2021-09-01 08:00:00",
                     "beginTimeSync":true,
                     "endTime":"2021-09-21 17:59:59"
+                },
+                {
+                    "id":201102,
+                    "type":"EventCharacter",
+                    "name":"浮岳虹珠",
+                    "hint":"珊瑚宫心海",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152102
+                    ],
+                    "rank4Up":[
+                        141401,140003,140014
+                    ],
+                    "beginTime":"2021-09-21 18:00:00",
+                    "endTime":"2021-10-12 14:59:59"
+                },
+                {
+                    "id":201202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"不灭月华 磐岩结绿",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        255004,215004
+                    ],
+                    "rank4Up":[
+                        214010,224002,234004,254002,244001
+                    ],
+                    "beginTime":"2021-09-21 18:00:00",
+                    "endTime":"2021-10-12 14:59:59"
                 }
             ]
         }
