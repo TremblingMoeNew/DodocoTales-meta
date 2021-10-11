@@ -685,6 +685,48 @@
                 }
             ]
         }
+        ,
+        {
+            "id":202,
+            "version":"2.2.0",
+            "name":"雾海悬谜境",
+            "beginTime":"2021-10-13 08:00:00",
+            "endTime":"2021-11-24 06:00:00",
+            "banners":[
+                {
+                    "id":202101,
+                    "type":"EventCharacter",
+                    "name":"暂别冬都",
+                    "hint":"达达利亚",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151101
+                    ],
+                    "rank4Up":[
+                        140009,140005,141501
+                    ],
+                    "beginTime":"2021-10-13 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2021-11-02 17:59:59"
+                },
+                {
+                    "id":202201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"冬极白星 尘世之锁",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        245005,255003
+                    ],
+                    "rank4Up":[
+                        224014,214002,234007,254010,244008
+                    ],
+                    "beginTime":"2021-10-13 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2021-11-02 17:59:59"
+                }
+            ]
+        }
     ]
 
 }

@@ -351,6 +351,14 @@
         "portrait":""
     },
     {
+        "id":142201,
+        "type":"Character",
+        "rank":4,
+        "code":"Thoma",
+        "name":"托马",
+        "portrait":""
+    },
+    {
         "id":211001,
         "type":"Weapon",
         "rank":1,
@@ -738,7 +746,14 @@
         "name":"衔珠海皇",
         "portrait":""
     },
-
+    {
+        "id":224014,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Akuoumaru",
+        "name":"恶王丸",
+        "portrait":""
+    },
     {
         "id":225001,
         "type":"Weapon",
@@ -902,7 +917,14 @@
         "name":"「渔获」",
         "portrait":""
     },
-
+    {
+        "id":234012,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Wavebreaker's Fin",
+        "name":"断浪长鳍",
+        "portrait":""
+    },
 
     {
         "id":235001,
@@ -1115,6 +1137,14 @@
         "portrait":""
     },
     {
+        "id":244014,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Mouun's Moon",
+        "name":"曚云之月",
+        "portrait":""
+    },
+    {
         "id":245001,
         "type":"Weapon",
         "rank":5,
@@ -1144,6 +1174,14 @@
         "rank":5,
         "code":"Thundering Pulse",
         "name":"飞雷之弦振",
+        "portrait":""
+    },
+    {
+        "id":245005,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Polar Star",
+        "name":"冬极白星",
         "portrait":""
     },
 
