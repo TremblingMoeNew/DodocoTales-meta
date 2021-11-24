@@ -756,6 +756,47 @@
                     "endTime":"2021-11-23 14:59:59"
                 }
             ]
+        },
+        {
+            "id":203,
+            "version":"2.3.0",
+            "name":"皑尘与雪影",
+            "beginTime":"2021-11-24 08:00:00",
+            "endTime":"2022-01-05 06:00:00",
+            "banners":[
+                {
+                    "id":203101,
+                    "type":"EventCharacter",
+                    "name":"深秘之息 / 浪涌之瞬",
+                    "hint":"阿贝多 / 优菈",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151201,151501
+                    ],
+                    "rank4Up":[
+                        140004,140010,141401
+                    ],
+                    "beginTime":"2021-11-24 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2021-12-14 17:59:59"
+                },
+                {
+                    "id":203201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"苍古自由之誓 松籁响起之时",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        215005,225004
+                    ],
+                    "rank4Up":[
+                        254009,244002,214004,224010,234004
+                    ],
+                    "beginTime":"2021-11-24 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2021-12-14 17:59:59"
+                }
+            ]
         }
     ]
 
