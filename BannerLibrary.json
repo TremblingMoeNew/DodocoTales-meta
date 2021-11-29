@@ -778,7 +778,9 @@
                     ],
                     "beginTime":"2021-11-24 08:00:00",
                     "beginTimeSync":true,
-                    "endTime":"2021-12-14 17:59:59"
+                    "endTime":"2021-12-14 17:59:59",
+                    "forceGachaTypeStorage":true
+
                 },
                 {
                     "id":203201,

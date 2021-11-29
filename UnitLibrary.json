@@ -359,6 +359,22 @@
         "portrait":""
     },
     {
+        "id":152301,
+        "type":"Character",
+        "rank":5,
+        "code":"Arataki Itto",
+        "name":"荒泷一斗",
+        "portrait":""
+    },
+    {
+        "id":142301,
+        "type":"Character",
+        "rank":4,
+        "code":"Gorou",
+        "name":"五郎",
+        "portrait":""
+    },
+    {
         "id":211001,
         "type":"Weapon",
         "rank":1,
@@ -524,6 +540,14 @@
         "rank":4,
         "code":"Amenoma Kageuta Blade",
         "name":"天目影打刀",
+        "portrait":""
+    },
+    {
+        "id":214014,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Cinnabar Spindle",
+        "name":"辰砂之纺锤",
         "portrait":""
     },
     {
@@ -786,7 +810,14 @@
         "name":"松籁响起之时",
         "portrait":""
     },
-
+    {
+        "id":225005,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Redhorn Stonethresher",
+        "name":"赤角石溃杵",
+        "portrait":""
+    },
 
 
     {
