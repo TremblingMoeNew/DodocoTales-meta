@@ -797,6 +797,36 @@
                     "beginTime":"2021-11-24 08:00:00",
                     "beginTimeSync":true,
                     "endTime":"2021-12-14 17:59:59"
+                },
+                {
+                    "id":203102,
+                    "type":"EventCharacter",
+                    "name":"鬼门斗宴",
+                    "hint":"荒泷一斗",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152301
+                    ],
+                    "rank4Up":[
+                        142301,140002,140013
+                    ],
+                    "beginTime":"2021-12-14 18:00:00",
+                    "endTime":"2022-01-04 14:59:59"
+                },
+                {
+                    "id":203202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"赤角石溃杵 天空之翼",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        225005,245001
+                    ],
+                    "rank4Up":[
+                        214008,244012,224008,234007,254006
+                    ],
+                    "beginTime":"2021-12-14 18:00:00",
+                    "endTime":"2022-01-04 14:59:59"
                 }
             ]
         }
