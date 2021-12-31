@@ -375,6 +375,25 @@
         "portrait":""
     },
     {
+        "id":152401,
+        "type":"Character",
+        "rank":5,
+        "code":"Shenhe",
+        "name":"申鹤",
+        "portrait":""
+    },
+    {
+        "id":142401,
+        "type":"Character",
+        "rank":4,
+        "code":"Yun Jin",
+        "name":"云堇",
+        "portrait":""
+    },
+
+
+
+    {
         "id":211001,
         "type":"Weapon",
         "rank":1,
@@ -997,7 +1016,14 @@
         "name":"薙草之稻光",
         "portrait":""
     },
-
+    {
+        "id":235006,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Calamity Queller",
+        "name":"息灾",
+        "portrait":""
+    },
 
     {
         "id":241001,

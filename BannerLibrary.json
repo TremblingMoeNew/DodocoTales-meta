@@ -829,6 +829,49 @@
                     "endTime":"2022-01-04 14:59:59"
                 }
             ]
+        },
+        {
+            "id":204,
+            "version":"2.4.0",
+            "name":"飞彩镌流年",
+            "beginTime":"2022-01-05 08:00:00",
+            "endTime":"2022-02-16 06:00:00",
+            "banners":[
+                {
+                    "id":204101,
+                    "type":"EventCharacter",
+                    "name":"出尘入世 / 烟火之邀",
+                    "hint":"申鹤 / 魈",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152401,151301
+                    ],
+                    "rank4Up":[
+                        142401,140009,140005
+                    ],
+                    "beginTime":"2022-01-05 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-01-25 17:59:59",
+                    "forceGachaTypeStorage":true
+
+                },
+                {
+                    "id":204201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"息灾 松籁响起之时",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        235006,235002
+                    ],
+                    "rank4Up":[
+                        234005,214010,224002,254008,244005
+                    ],
+                    "beginTime":"2022-01-05 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-01-25 17:59:59"
+                }
+            ]
         }
     ]
 
