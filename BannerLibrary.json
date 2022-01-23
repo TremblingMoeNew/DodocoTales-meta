@@ -870,6 +870,37 @@
                     "beginTime":"2022-01-05 08:00:00",
                     "beginTimeSync":true,
                     "endTime":"2022-01-25 17:59:59"
+                },
+                {
+                    "id":204102,
+                    "type":"EventCharacter",
+                    "name":"陵薮市朝 / 浮生孰来",
+                    "hint":"钟离 / 甘雨",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151102,151202
+                    ],
+                    "rank4Up":[
+                        140014,140003,141501
+                    ],
+                    "beginTime":"2022-01-25 18:00:00",
+                    "endTime":"2022-02-15 14:59:59",
+                    "forceGachaTypeStorage":true
+                },
+                {
+                    "id":204202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"贯虹之槊 天空之翼",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        235001,245002
+                    ],
+                    "rank4Up":[
+                        224003,214002,234004,254002,244009
+                    ],
+                    "beginTime":"2022-01-25 18:00:00",
+                    "endTime":"2022-02-15 14:59:59"
                 }
             ]
         }
