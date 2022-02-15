@@ -903,6 +903,48 @@
                     "endTime":"2022-02-15 14:59:59"
                 }
             ]
+        },
+        {
+            "id":205,
+            "version":"2.5.0",
+            "name":"薄樱初绽时",
+            "beginTime":"2022-02-16 08:00:00",
+            "endTime":"2022-03-30 06:00:00",
+            "banners":[
+                {
+                    "id":205101,
+                    "type":"EventCharacter",
+                    "name":"华紫樱绯",
+                    "hint":"八重神子",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152501
+                    ],
+                    "rank4Up":[
+                        140006,141101,142201
+                    ],
+                    "beginTime":"2022-02-16 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-03-08 17:59:59"
+
+                },
+                {
+                    "id":205201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"神乐之真意 磐岩结绿",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        255005,215004
+                    ],
+                    "rank4Up":[
+                        234012,214007,224005,254010,244001
+                    ],
+                    "beginTime":"2022-02-16 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-03-08 17:59:59"
+                }
+            ]
         }
     ]
 

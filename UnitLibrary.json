@@ -390,7 +390,14 @@
         "name":"云堇",
         "portrait":""
     },
-
+    {
+        "id":152501,
+        "type":"Character",
+        "rank":5,
+        "code":"Yae Miko",
+        "name":"八重神子",
+        "portrait":""
+    },
 
 
     {
@@ -1412,6 +1419,14 @@
         "portrait":""
     },
     {
+        "id":254014,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Oathsworn Eye",
+        "name":"证誓之明瞳",
+        "portrait":""
+    },
+    {
         "id":255001,
         "type":"Weapon",
         "rank":5,
@@ -1441,6 +1456,14 @@
         "rank":5,
         "code":"Everlasting Moonglow",
         "name":"不灭月华",
+        "portrait":""
+    },
+    {
+        "id":255005,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Kagura's Verity",
+        "name":"神乐之真意",
         "portrait":""
     }
 
