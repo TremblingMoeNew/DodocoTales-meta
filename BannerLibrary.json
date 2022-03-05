@@ -943,6 +943,36 @@
                     "beginTime":"2022-02-16 08:00:00",
                     "beginTimeSync":true,
                     "endTime":"2022-03-08 17:59:59"
+                },
+                {
+                    "id":205102,
+                    "type":"EventCharacter",
+                    "name":"影寂天下人 / 浮岳虹珠",
+                    "hint":"雷电将军 / 珊瑚宫心海",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152101,152102
+                    ],
+                    "rank4Up":[
+                        140004,141102,142101
+                    ],
+                    "beginTime":"2022-03-08 18:00:00",
+                    "endTime":"2022-03-29 14:59:59"
+                },
+                {
+                    "id":205202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"薙草之稻光 不灭月华",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        235005,255004
+                    ],
+                    "rank4Up":[
+                        224014,244014,214004,234007,254006
+                    ],
+                    "beginTime":"2022-03-08 18:00:00",
+                    "endTime":"2022-03-29 14:59:59"
                 }
             ]
         }
