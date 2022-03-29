@@ -398,7 +398,14 @@
         "name":"八重神子",
         "portrait":""
     },
-
+    {
+        "id":152601,
+        "type":"Character",
+        "rank":5,
+        "code":"Kamisato Ayato",
+        "name":"神里绫人",
+        "portrait":""
+    },
 
     {
         "id":211001,
@@ -624,7 +631,14 @@
         "name":"雾切之回光",
         "portrait":""
     },
-
+    {
+        "id":215007,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Haran Geppaku Futsu",
+        "name":"波乱月白经津",
+        "portrait":""
+    },
 
 
     {

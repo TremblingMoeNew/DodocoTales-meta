@@ -975,6 +975,48 @@
                     "endTime":"2022-03-29 14:59:59"
                 }
             ]
+        },
+        {
+            "id":206,
+            "version":"2.6.0",
+            "name":"薄樱初绽时",
+            "beginTime":"2022-03-30 08:00:00",
+            "endTime":"2022-05-11 06:00:00",
+            "banners":[
+                {
+                    "id":205101,
+                    "type":"EventCharacter",
+                    "name":"苍流踏花 / 杯装之诗",
+                    "hint":"神里绫人 / 温迪",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152601,151001
+                    ],
+                    "rank4Up":[
+                        140012,140013,142401
+                    ],
+                    "beginTime":"2022-03-30 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-04-19 17:59:59"
+
+                },
+                {
+                    "id":205201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"波乱月白经津 终末嗟叹之诗",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        215007,245003
+                    ],
+                    "rank4Up":[
+                        214010,224010,234004,254008,244008
+                    ],
+                    "beginTime":"2022-03-30 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-04-19 17:59:59"
+                }
+            ]
         }
     ]
 
