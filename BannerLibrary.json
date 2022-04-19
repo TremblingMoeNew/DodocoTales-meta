@@ -1015,6 +1015,36 @@
                     "beginTime":"2022-03-30 08:00:00",
                     "beginTimeSync":true,
                     "endTime":"2022-04-19 17:59:59"
+                },
+                {
+                    "id":205102,
+                    "type":"EventCharacter",
+                    "name":"白鹭之庭",
+                    "hint":"神里绫华",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152001
+                    ],
+                    "rank4Up":[
+                        140011,141401,142001
+                    ],
+                    "beginTime":"2022-04-19 18:00:00",
+                    "endTime":"2022-05-10 14:59:59"
+                },
+                {
+                    "id":205202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"雾切之回光 无工之剑",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        215006,225003
+                    ],
+                    "rank4Up":[
+                        214002,224008,234007,254002,244005
+                    ],
+                    "beginTime":"2022-04-19 18:00:00",
+                    "endTime":"2022-05-10 14:59:59"
                 }
             ]
         }
