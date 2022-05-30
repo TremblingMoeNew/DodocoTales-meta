@@ -981,7 +981,7 @@
             "version":"2.6.0",
             "name":"流风眷堇庭",
             "beginTime":"2022-03-30 08:00:00",
-            "endTime":"2022-07-11 06:00:00",
+            "endTime":"2022-05-31 06:00:00",
             "banners":[
                 {
                     "id":205101,
@@ -1029,7 +1029,8 @@
                         140011,141401,142001
                     ],
                     "beginTime":"2022-04-19 18:00:00",
-                    "endTime":"2022-07-10 14:59:59"
+                    "endTime":"2022-05-31 06:00:00",
+                    "endTimeSync":true
                 },
                 {
                     "id":205202,
@@ -1044,7 +1045,50 @@
                         214002,224008,234007,254002,244005
                     ],
                     "beginTime":"2022-04-19 18:00:00",
-                    "endTime":"2022-07-10 14:59:59"
+                    "endTime":"2022-05-31 06:00:00",
+                    "endTimeSync":true
+                }
+            ]
+        },
+        {
+            "id":207,
+            "version":"2.7.0",
+            "name":"荒梦藏虞渊",
+            "beginTime":"2022-05-31 08:00:00",
+            "endTime":"2022-07-13 06:00:00",
+            "banners":[
+                {
+                    "id":205101,
+                    "type":"EventCharacter",
+                    "name":"素霓伣天 / 烟火之邀",
+                    "hint":"夜兰 / 魈",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152701,151301
+                    ],
+                    "rank4Up":[
+                        140002,141501,140010
+                    ],
+                    "beginTime":"2022-05-31 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-06-21 17:59:59"
+
+                },
+                {
+                    "id":205201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"若水 和璞鸢",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        245006,235002
+                    ],
+                    "rank4Up":[
+                        234005,214007,224002,254010,244009
+                    ],
+                    "beginTime":"2022-05-31 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-06-21 17:59:59"
                 }
             ]
         }

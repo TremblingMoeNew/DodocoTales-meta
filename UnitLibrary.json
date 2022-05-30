@@ -406,6 +406,24 @@
         "name":"神里绫人",
         "portrait":""
     },
+    {
+        "id":142701,
+        "type":"Character",
+        "rank":4,
+        "code":"Kuki Shinobu",
+        "name":"久岐忍",
+        "portrait":""
+    },
+    {
+        "id":152701,
+        "type":"Character",
+        "rank":5,
+        "code":"Yelan",
+        "name":"夜兰",
+        "portrait":""
+    },
+
+
 
     {
         "id":211001,
@@ -1223,6 +1241,15 @@
         "portrait":""
     },
     {
+        "id":244015,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Fading Twilight",
+        "name":"落霞",
+        "portrait":""
+    },
+
+    {
         "id":245001,
         "type":"Weapon",
         "rank":5,
@@ -1262,7 +1289,14 @@
         "name":"冬极白星",
         "portrait":""
     },
-
+    {
+        "id":245006,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Aqua Simulacra",
+        "name":"若水",
+        "portrait":""
+    },
 
     {
         "id":251001,
