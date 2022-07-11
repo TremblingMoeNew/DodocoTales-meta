@@ -422,7 +422,14 @@
         "name":"夜兰",
         "portrait":""
     },
-
+    {
+        "id":142801,
+        "type":"Character",
+        "rank":4,
+        "code":"Shikanoin Heizou",
+        "name":"鹿野院平藏",
+        "portrait":""
+    },
 
 
     {

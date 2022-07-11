@@ -1121,6 +1121,48 @@
                     "endTime":"2022-07-12 14:59:59"
                 }
             ]
+        },
+        {
+            "id":208,
+            "version":"2.8.0",
+            "name":"仲夏！幻夜？奇想曲！",
+            "beginTime":"2022-07-13 08:00:00",
+            "endTime":"2022-08-24 06:00:00",
+            "banners":[
+                {
+                    "id":208101,
+                    "type":"EventCharacter",
+                    "name":"叶落风随 / 闪焰的驻足",
+                    "hint":"枫原万叶 / 可莉",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151601,151002
+                    ],
+                    "rank4Up":[
+                        142801,140009,142201
+                    ],
+                    "beginTime":"2022-07-13 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-08-02 17:59:59"
+
+                },
+                {
+                    "id":208201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"苍古自由之誓 四风原典",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        215005,255001
+                    ],
+                    "rank4Up":[
+                        214008,244012,224005,234007,254008
+                    ],
+                    "beginTime":"2022-07-13 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-08-02 17:59:59"
+                }
+            ]
         }
     ]
 
