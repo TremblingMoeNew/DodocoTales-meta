@@ -1161,6 +1161,36 @@
                     "beginTime":"2022-07-13 08:00:00",
                     "beginTimeSync":true,
                     "endTime":"2022-08-02 17:59:59"
+                },
+                {
+                    "id":208102,
+                    "type":"EventCharacter",
+                    "name":"焰色天河",
+                    "hint":"宵宫",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152002
+                    ],
+                    "rank4Up":[
+                        140004,141102,142401
+                    ],
+                    "beginTime":"2022-08-02 18:00:00",
+                    "endTime":"2022-08-23 14:59:59"
+                },
+                {
+                    "id":208202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"飞雷之弦振 斫峰之刃",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        245004,215003
+                    ],
+                    "rank4Up":[
+                        254009,244002,214010,224010,234004
+                    ],
+                    "beginTime":"2022-08-02 18:00:00",
+                    "endTime":"2022-08-23 14:59:59"
                 }
             ]
         }
