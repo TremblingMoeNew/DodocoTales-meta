@@ -1193,6 +1193,48 @@
                     "endTime":"2022-08-23 14:59:59"
                 }
             ]
+        },
+        {
+            "id":300,
+            "version":"3.0.0",
+            "name":"千朵玫瑰带来的黎明",
+            "beginTime":"2022-08-24 08:00:00",
+            "endTime":"2022-09-28 06:00:00",
+            "banners":[
+                {
+                    "id":300101,
+                    "type":"EventCharacter",
+                    "name":"巡御蘙荟 / 陵薮市朝",
+                    "hint":"提纳里 / 钟离",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        153001,151102
+                    ],
+                    "rank4Up":[
+                        143001,141101,140006
+                    ],
+                    "beginTime":"2022-08-24 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-09-09 17:59:59"
+
+                },
+                {
+                    "id":300201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"猎人之径 贯虹之槊",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        245007,235001
+                    ],
+                    "rank4Up":[
+                        214002,224008,234007,254002,244001
+                    ],
+                    "beginTime":"2022-08-24 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-09-09 17:59:59"
+                }
+            ]
         }
     ]
 

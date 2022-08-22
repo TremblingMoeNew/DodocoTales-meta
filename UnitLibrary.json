@@ -430,8 +430,30 @@
         "name":"鹿野院平藏",
         "portrait":""
     },
-
-
+    {
+        "id":143001,
+        "type":"Character",
+        "rank":4,
+        "code":"Collei",
+        "name":"柯莱",
+        "portrait":""
+    },
+    {
+        "id":143002,
+        "type":"Character",
+        "rank":4,
+        "code":"Dori",
+        "name":"多莉",
+        "portrait":""
+    },
+    {
+        "id":153001,
+        "type":"Character",
+        "rank":5,
+        "code":"Tighnari",
+        "name":"提纳里",
+        "portrait":""
+    },
     {
         "id":211001,
         "type":"Weapon",
@@ -1304,7 +1326,14 @@
         "name":"若水",
         "portrait":""
     },
-
+    {
+        "id":245007,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Hunter's Path",
+        "name":"猎人之径",
+        "portrait":""
+    },
     {
         "id":251001,
         "type":"Weapon",
