@@ -1233,6 +1233,36 @@
                     "beginTime":"2022-08-24 08:00:00",
                     "beginTimeSync":true,
                     "endTime":"2022-09-09 17:59:59"
+                },
+                {
+                    "id":300102,
+                    "type":"EventCharacter",
+                    "name":"浮生孰来 / 浮岳虹珠",
+                    "hint":"甘雨 / 珊瑚宫心海",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        151202,152102
+                    ],
+                    "rank4Up":[
+                        143002,140012,140014
+                    ],
+                    "beginTime":"2022-09-09 18:00:00",
+                    "endTime":"2022-09-27 14:59:59"
+                },
+                {
+                    "id":300202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"不灭月华 斫峰之刃",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        255004,245002
+                    ],
+                    "rank4Up":[
+                        214007,224002,234004,254010,244008
+                    ],
+                    "beginTime":"2022-09-09 18:00:00",
+                    "endTime":"2022-09-27 14:59:59"
                 }
             ]
         }
