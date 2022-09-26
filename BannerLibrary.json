@@ -1265,6 +1265,48 @@
                     "endTime":"2022-09-27 14:59:59"
                 }
             ]
+        },
+        {
+            "id":301,
+            "version":"3.1.0",
+            "name":"赤土之王与三朝圣者",
+            "beginTime":"2022-09-28 08:00:00",
+            "endTime":"2022-11-02 06:00:00",
+            "banners":[
+                {
+                    "id":301101,
+                    "type":"EventCharacter",
+                    "name":"雳裁冥昭 / 杯装之诗",
+                    "hint":"赛诺 / 温迪",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        153101,151001
+                    ],
+                    "rank4Up":[
+                        143101,142701,142001
+                    ],
+                    "beginTime":"2022-09-28 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-10-14 17:59:59"
+
+                },
+                {
+                    "id":301201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"赤沙之杖 终末嗟叹之诗",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        235007,245003
+                    ],
+                    "rank4Up":[
+                        224015,214004,234007,254006,244005
+                    ],
+                    "beginTime":"2022-09-28 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-10-14 17:59:59"
+                }
+            ]
         }
     ]
 

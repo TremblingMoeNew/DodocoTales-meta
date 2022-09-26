@@ -455,6 +455,31 @@
         "portrait":""
     },
     {
+        "id":143101,
+        "type":"Character",
+        "rank":4,
+        "code":"Candace",
+        "name":"坎蒂丝",
+        "portrait":""
+    },
+    {
+        "id":153101,
+        "type":"Character",
+        "rank":5,
+        "code":"Cyno",
+        "name":"赛诺",
+        "portrait":""
+    },
+    {
+        "id":153102,
+        "type":"Character",
+        "rank":5,
+        "code":"Nilou",
+        "name":"妮露",
+        "portrait":""
+    },
+
+    {
         "id":211001,
         "type":"Weapon",
         "rank":1,
@@ -631,6 +656,14 @@
         "portrait":""
     },
     {
+        "id":214015,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Xiphos' Moonlight",
+        "name":"西福斯的月光",
+        "portrait":""
+    },
+    {
         "id":215001,
         "type":"Weapon",
         "rank":5,
@@ -686,7 +719,14 @@
         "name":"波乱月白经津",
         "portrait":""
     },
-
+    {
+        "id":215008,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Key of Khaj-Nisut",
+        "name":"圣显之钥",
+        "portrait":""
+    },
 
     {
         "id":221001,
@@ -865,6 +905,16 @@
         "name":"恶王丸",
         "portrait":""
     },
+    {
+        "id":224015,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Makhaira Aquamarine",
+        "name":"玛海菈的水色",
+        "portrait":""
+    },
+
+
     {
         "id":225001,
         "type":"Weapon",
@@ -1092,6 +1142,15 @@
         "name":"息灾",
         "portrait":""
     },
+    {
+        "id":235007,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Staff of the Scarlet Sands",
+        "name":"赤沙之杖",
+        "portrait":""
+    },
+
 
     {
         "id":241001,
@@ -1510,6 +1569,15 @@
         "name":"证誓之明瞳",
         "portrait":""
     },
+    {
+        "id":254015,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Wandering Evenstar",
+        "name":"流浪的晚星",
+        "portrait":""
+    },
+
     {
         "id":255001,
         "type":"Weapon",
