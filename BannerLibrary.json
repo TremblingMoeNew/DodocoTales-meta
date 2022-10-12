@@ -1305,6 +1305,36 @@
                     "beginTime":"2022-09-28 08:00:00",
                     "beginTimeSync":true,
                     "endTime":"2022-10-14 17:59:59"
+                },
+                {
+                    "id":301102,
+                    "type":"EventCharacter",
+                    "name":"翩舞歈莲 / 深秘之息",
+                    "hint":"妮露 / 阿贝多",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        153102,151201
+                    ],
+                    "rank4Up":[
+                        140003,140002,140013
+                    ],
+                    "beginTime":"2022-10-14 18:00:00",
+                    "endTime":"2022-11-01 14:59:59"
+                },
+                {
+                    "id":301202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"圣显之钥 磐岩结绿",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        215008,215004
+                    ],
+                    "rank4Up":[
+                        214015,254015,224005,234004,244009
+                    ],
+                    "beginTime":"2022-10-14 18:00:00",
+                    "endTime":"2022-11-01 14:59:59"
                 }
             ]
         }
