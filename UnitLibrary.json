@@ -478,6 +478,22 @@
         "name":"妮露",
         "portrait":""
     },
+    {
+        "id":143201,
+        "type":"Character",
+        "rank":4,
+        "code":"Layla",
+        "name":"莱依拉",
+        "portrait":""
+    },
+    {
+        "id":153201,
+        "type":"Character",
+        "rank":5,
+        "code":"Nahida",
+        "name":"纳西妲",
+        "portrait":""
+    },
 
     {
         "id":211001,
@@ -1616,6 +1632,14 @@
         "rank":5,
         "code":"Kagura's Verity",
         "name":"神乐之真意",
+        "portrait":""
+    },
+    {
+        "id":255006,
+        "type":"Weapon",
+        "rank":5,
+        "code":"A Thousand Floating Dreams",
+        "name":"千夜浮梦",
         "portrait":""
     }
 

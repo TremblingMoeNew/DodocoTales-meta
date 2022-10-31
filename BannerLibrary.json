@@ -1337,6 +1337,48 @@
                     "endTime":"2022-11-01 14:59:59"
                 }
             ]
+        },
+        {
+            "id":302,
+            "version":"3.2.0",
+            "name":"虚空鼓动，劫火高扬",
+            "beginTime":"2022-11-02 08:00:00",
+            "endTime":"2022-12-07 06:00:00",
+            "banners":[
+                {
+                    "id":302101,
+                    "type":"EventCharacter",
+                    "name":"月草的赐慧 / 焰色天河",
+                    "hint":"纳西妲 / 宵宫",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        153201,152002
+                    ],
+                    "rank4Up":[
+                        140011,140010,140004
+                    ],
+                    "beginTime":"2022-11-02 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-11-18 17:59:59"
+
+                },
+                {
+                    "id":302201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"千夜浮梦 飞雷之弦振",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        255006,245004
+                    ],
+                    "rank4Up":[
+                        214010,224010,234007,254008,244008
+                    ],
+                    "beginTime":"2022-11-02 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-11-18 17:59:59"
+                }
+            ]
         }
     ]
 
