@@ -1377,6 +1377,36 @@
                     "beginTime":"2022-11-02 08:00:00",
                     "beginTimeSync":true,
                     "endTime":"2022-11-18 17:59:59"
+                },
+                {
+                    "id":302102,
+                    "type":"EventCharacter",
+                    "name":"华紫樱绯 / 暂别冬都",
+                    "hint":"八重神子 / 达达利亚",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152501,151101
+                    ],
+                    "rank4Up":[
+                        143201,142201,142801
+                    ],
+                    "beginTime":"2022-11-18 18:00:00",
+                    "endTime":"2022-12-06 14:59:59"
+                },
+                {
+                    "id":302202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"神乐之真意 冬极白星",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        255005,245005
+                    ],
+                    "rank4Up":[
+                        214002,224008,234004,254002,244001
+                    ],
+                    "beginTime":"2022-11-18 18:00:00",
+                    "endTime":"2022-12-06 14:59:59"
                 }
             ]
         }
