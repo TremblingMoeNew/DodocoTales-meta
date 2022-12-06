@@ -1409,6 +1409,48 @@
                     "endTime":"2022-12-06 14:59:59"
                 }
             ]
+        },
+        {
+            "id":303,
+            "version":"3.3.0",
+            "name":"六入尽明，诸相皆无",
+            "beginTime":"2022-12-07 08:00:00",
+            "endTime":"2023-01-18 06:00:00",
+            "banners":[
+                {
+                    "id":303101,
+                    "type":"EventCharacter",
+                    "name":"余火变相 / 鬼门斗宴",
+                    "hint":"流浪者 / 荒泷一斗",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        153301,152301
+                    ],
+                    "rank4Up":[
+                        143301,142301,141501
+                    ],
+                    "beginTime":"2022-12-07 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-12-27 17:59:59"
+
+                },
+                {
+                    "id":303201,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"图莱杜拉的回忆 赤角石溃杵",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        255007,225005
+                    ],
+                    "rank4Up":[
+                        234012,214007,224002,254010,244005
+                    ],
+                    "beginTime":"2022-12-07 08:00:00",
+                    "beginTimeSync":true,
+                    "endTime":"2022-12-27 17:59:59"
+                }
+            ]
         }
     ]
 

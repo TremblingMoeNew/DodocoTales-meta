@@ -494,7 +494,22 @@
         "name":"纳西妲",
         "portrait":""
     },
-
+    {
+        "id":143301,
+        "type":"Character",
+        "rank":4,
+        "code":"Faruzan",
+        "name":"珐露珊",
+        "portrait":""
+    },
+    {
+        "id":153301,
+        "type":"Character",
+        "rank":5,
+        "code":"Wanderer",
+        "name":"流浪者",
+        "portrait":""
+    },
     {
         "id":211001,
         "type":"Weapon",
@@ -677,6 +692,14 @@
         "rank":4,
         "code":"Xiphos' Moonlight",
         "name":"西福斯的月光",
+        "portrait":""
+    },
+    {
+        "id":214016,
+        "type":"Weapon",
+        "rank":4,
+        "code":"Toukabou Shigure",
+        "name":"东花坊时雨",
         "portrait":""
     },
     {
@@ -1640,6 +1663,14 @@
         "rank":5,
         "code":"A Thousand Floating Dreams",
         "name":"千夜浮梦",
+        "portrait":""
+    },
+    {
+        "id":255007,
+        "type":"Weapon",
+        "rank":5,
+        "code":"Tulaytullah’s Remembrance",
+        "name":"图莱杜拉的回忆",
         "portrait":""
     }
 
