@@ -1449,6 +1449,36 @@
                     "beginTime":"2022-12-07 08:00:00",
                     "beginTimeSync":true,
                     "endTime":"2022-12-27 17:59:59"
+                },
+                {
+                    "id":303102,
+                    "type":"EventCharacter",
+                    "name":"影寂天下人 / 苍流踏花",
+                    "hint":"雷电将军 / 神里绫人",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        152101,152601
+                    ],
+                    "rank4Up":[
+                        141401,142001,142101
+                    ],
+                    "beginTime":"2022-12-27 18:00:00",
+                    "endTime":"2023-01-17 14:59:59"
+                },
+                {
+                    "id":303202,
+                    "type":"EventWeapon",
+                    "name":"神铸赋形",
+                    "hint":"薙草之稻光 波乱月白经津",
+                    "epitomizedPathEnabled":false,
+                    "rank5Up":[
+                        235005,215007
+                    ],
+                    "rank4Up":[
+                        224014,244014,214004,234007,254006
+                    ],
+                    "beginTime":"2022-12-27 18:00:00",
+                    "endTime":"2023-01-17 14:59:59"
                 }
             ]
         }
